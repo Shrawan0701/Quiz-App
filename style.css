@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color:linear-gradiant(135deg, #cf9aff, #95c0ff);
+  background:linear-gradiant(135deg, #cf9aff, #95c0ff);
 }
 
 .app {
