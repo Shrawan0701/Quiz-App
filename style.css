@@ -68,9 +68,9 @@ body {
 }
 
 .correct {
-  background: turquoise;
+  background: #00c04b;
 }
 
 .incorrect {
-  background: red;
+  background:#ff2c2c ;
 }
