@@ -69,7 +69,7 @@ const questions = [
       {text: "Increased scalability", correct:false },
       {text: "Lower energy consumption", correct: false},
       {text: "Enhanced security and immutability", correct: true},
-      {text:"Faster transaction processing",correct:true},
+      {text:"Faster transaction processing",correct:false},
       ]
   },
       
