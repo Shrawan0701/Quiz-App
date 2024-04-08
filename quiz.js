@@ -1,50 +1,79 @@
 const questions = [
   {
-    question: "Who is the current PM of India?",
+    question: "What does Web3 refer to?",
     answers: [
-      { text: "Rahul Gandhi", correct: false},
-      { text: "Narendra Modi", correct: true},
-      { text: "Arvind Kejriwal", correct: false},
-      { text: "Amit Shah", correct: false},
+      { text: "The third version of the World Wide Web", correct: false},
+      { text: "A decentralized internet built on blockchain technology", correct: true},
+      { text: "An upgrade to the existing HTTP protocol", correct: false},
+      { text: "A new social media platform", correct: false},
     ]
   },
   {
-    question: "Who is the current Captain of Indian Cricket Team?",
+    question: "Which technology is central to Web3 development?",
     answers: [
-      { text: "KL Rahul", correct: false},
-      { text: "Virat Kohli", correct:false},
-      { text: "Rohit Sharma", correct: true},
-      { text: "Hardik Pandya", correct: false},
+      { text: "Artificial Intelligence", correct: false},
+      { text: "Virtual Reality", correct:false},
+      { text: "Blockchain", correct: true},
+      { text: "Augmented reality", correct: false},
     ]
   },
   {
-    question: "Which is the smallest Continent in the World?",
+    question: "What is a characteristic of Web3 applications?",
     answers: [
-      { text: "South America", correct: false},
-      { text: "Asia", correct: false},
-      { text: "Europe", correct: false},
-      { text: "Australia", correct: true},
+      { text: "Centralized control", correct: false},
+      { text: "Dependency on traditional servers", correct: false},
+      { text: "Ethereum-based decentralized finance (DeFi) platform", correct: true},
+      { text: "Lack of transparency", correct: false},
     ]
   },
   {
-    question: "Which IPL team has won more titals from below options?",
+    question: "Which of the following is an example of a Web3 application?",
     answers: [
-      { text: "Punjab", correct: false},
-      { text: "Bangalore", correct: false},
-      { text: "Kolkata", correct: true},
-      { text: "Hyderabad", correct: false},
+      { text: "Facebook", correct: false},
+      { text: "Google", correct: false},
+      { text: "Ethereum-based decentralized finance (DeFi) platform", correct: true},
+      { text: "Amazon", correct: false},
     ]
   },
 
   {
-    question: "What is the name of the highest civilian award in India??",
+    question: "What role do smart contracts play in Web3 ecosystems?",
     answers: [
-      { text: "Padmashri", correct: false},
-      { text: "Padmabhushan", correct: false},
-      { text: "Padmavibhushan", correct: false},
-      { text: "Bharat Ratna", correct: true},
+      { text: "Provides secure communication between servers.", correct: false},
+      { text: "They enable automated and trustless transactions.", correct: true},
+      { text: "They are used for creating traditional legal contracts.", correct: false},
+      { text: "They are not relevant in Web3.", correct: false},
     ]
-  }
+  },
+  {
+    question: "What does IPFS stand for in the context of Web3?",
+    answers: [
+      {text: "Internet Protocol File System", correct:false },
+      {text: " International Platform for File Sharing", correct: false},
+      {text: "InterPlanetary File System", correct: true},
+      {text:" Intelligent Protocol for File Security",correct:false},
+      ]
+  },
+  {
+    question: "Which cryptocurrency is often associated with Web3 ecosystems?",
+    answers: [
+      {text: "Bitcoin", correct:false },
+      {text: "Ripple", correct: false},
+      {text: "Litecoin", correct: false},
+      {text:"Ethereum",correct:true},
+      ]
+  },
+  {
+    question: "What is the main benefit of using blockchain technology in Web3?",
+    answers: [
+      {text: "Increased scalability", correct:false },
+      {text: "Lower energy consumption", correct: false},
+      {text: "Enhanced security and immutability", correct: true},
+      {text:"Faster transaction processing",correct:true},
+      ]
+  },
+      
+      
 
 ];
 
